@@ -1,0 +1,11 @@
+scenario_id,map_name,profile,seed,learning_enabled,status_code,success_rate,collision_rate,avg_exec_time_sec,avg_path_length,min_safety_distance,first_solution_iteration
+scene_custom,scene_custom.txt,static,1,0,0,1.000000,0.000000,227.959616,227.959616,0.270088,19526
+scene_custom,scene_custom.txt,static,2,0,0,1.000000,0.000000,227.959616,227.959616,0.270088,19526
+scene_custom,scene_custom.txt,static,3,0,0,1.000000,0.000000,227.959616,227.959616,0.270088,19526
+scene_custom,scene_custom.txt,static,4,0,0,1.000000,0.000000,227.959616,227.959616,0.270088,19526
+scene_custom,scene_custom.txt,static,5,0,0,1.000000,0.000000,227.959616,227.959616,0.270088,19526
+scene_custom,scene_custom.txt,static,6,0,0,1.000000,0.000000,227.959616,227.959616,0.270088,19526
+scene_custom,scene_custom.txt,static,7,0,0,1.000000,0.000000,227.959616,227.959616,0.270088,19526
+scene_custom,scene_custom.txt,static,8,0,0,1.000000,0.000000,227.959616,227.959616,0.270088,19526
+scene_custom,scene_custom.txt,static,9,0,0,1.000000,0.000000,227.959616,227.959616,0.270088,19526
+scene_custom,scene_custom.txt,static,10,0,0,1.000000,0.000000,227.959616,227.959616,0.270088,19526

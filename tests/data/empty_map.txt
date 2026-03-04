@@ -1,0 +1,3 @@
+name empty_map
+bounds -10 10 -10 10
+obstacles 0

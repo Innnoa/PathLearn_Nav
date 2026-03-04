@@ -1,0 +1,3 @@
+label,runs_path,total_runs,success_runs,success_rate,collision_rate,avg_first_iter_all,avg_first_iter_success_only,median_first_iter_success_only,p90_first_iter_success_only,avg_exec_time_success_only,avg_path_length_success_only,avg_min_safety_success_only
+base_B19700,data/BenchmarK/p2_astar/tune/budget_sweep_20260302_224634/astar_base_B19700_runs.csv,10,10,1.0,0.0,19542.0,19542.0,19542.0,19542.0,226.60044899999997,226.60044899999997,0.270088
+v3_B19700,data/BenchmarK/p2_astar/tune/budget_sweep_20260302_224634/astar_v3_B19700_runs.csv,10,10,1.0,0.0,19461.0,19461.0,19461.0,19461.0,228.165504,228.165504,0.270088

@@ -1,0 +1,2 @@
+scenario_id,map_name,profile,learning_enabled,total_runs,success_runs,collision_runs,no_path_runs,success_rate,collision_rate,avg_exec_time_sec,avg_path_length,avg_min_safety_distance,avg_first_solution_iteration
+scene_custom,scene_custom.txt,static,0,30,30,0,0,1.000000,0.000000,300.800000,287.896293,0.203442,402755.233333

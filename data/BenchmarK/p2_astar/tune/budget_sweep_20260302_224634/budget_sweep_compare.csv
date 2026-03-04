@@ -1,0 +1,13 @@
+budget,label,runs_path,total_runs,success_runs,success_rate,collision_rate,avg_first_iter_all,avg_first_iter_success_only,median_first_iter_success_only,p90_first_iter_success_only,avg_exec_time_success_only,avg_path_length_success_only,avg_min_safety_success_only
+19300,base_B19300,data/BenchmarK/p2_astar/tune/budget_sweep_20260302_224634/astar_base_B19300_runs.csv,10,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+19300,v3_B19300,data/BenchmarK/p2_astar/tune/budget_sweep_20260302_224634/astar_v3_B19300_runs.csv,10,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+19400,base_B19400,data/BenchmarK/p2_astar/tune/budget_sweep_20260302_224634/astar_base_B19400_runs.csv,10,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+19400,v3_B19400,data/BenchmarK/p2_astar/tune/budget_sweep_20260302_224634/astar_v3_B19400_runs.csv,10,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+19500,base_B19500,data/BenchmarK/p2_astar/tune/budget_sweep_20260302_224634/astar_base_B19500_runs.csv,10,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+19500,v3_B19500,data/BenchmarK/p2_astar/tune/budget_sweep_20260302_224634/astar_v3_B19500_runs.csv,10,10,1.0,0.0,19461.0,19461.0,19461.0,19461.0,228.165504,228.165504,0.270088
+19600,base_B19600,data/BenchmarK/p2_astar/tune/budget_sweep_20260302_224634/astar_base_B19600_runs.csv,10,10,1.0,0.0,19542.0,19542.0,19542.0,19542.0,226.60044899999997,226.60044899999997,0.270088
+19600,v3_B19600,data/BenchmarK/p2_astar/tune/budget_sweep_20260302_224634/astar_v3_B19600_runs.csv,10,10,1.0,0.0,19461.0,19461.0,19461.0,19461.0,228.165504,228.165504,0.270088
+19700,base_B19700,data/BenchmarK/p2_astar/tune/budget_sweep_20260302_224634/astar_base_B19700_runs.csv,10,10,1.0,0.0,19542.0,19542.0,19542.0,19542.0,226.60044899999997,226.60044899999997,0.270088
+19700,v3_B19700,data/BenchmarK/p2_astar/tune/budget_sweep_20260302_224634/astar_v3_B19700_runs.csv,10,10,1.0,0.0,19461.0,19461.0,19461.0,19461.0,228.165504,228.165504,0.270088
+19800,base_B19800,data/BenchmarK/p2_astar/tune/budget_sweep_20260302_224634/astar_base_B19800_runs.csv,10,10,1.0,0.0,19542.0,19542.0,19542.0,19542.0,226.60044899999997,226.60044899999997,0.270088
+19800,v3_B19800,data/BenchmarK/p2_astar/tune/budget_sweep_20260302_224634/astar_v3_B19800_runs.csv,10,10,1.0,0.0,19461.0,19461.0,19461.0,19461.0,228.165504,228.165504,0.270088

@@ -1,0 +1,2 @@
+run_index,scenario_id,profile,seed,learning_enabled,epoch,initial_length_weight,initial_smoothness_weight,initial_safety_weight,initial_time_weight,initial_exploration_weight,updated_length_weight,updated_smoothness_weight,updated_safety_weight,updated_time_weight,updated_exploration_weight
+0,scene_custom,static,1,0,0,1.000000,1.000000,1.000000,1.000000,8.000000,1.000000,1.000000,1.000000,1.000000,8.000000

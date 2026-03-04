@@ -1,0 +1,4 @@
+label,summary_path,total_runs,success_rate,collision_rate,avg_exec_time_sec,avg_path_length,avg_min_safety_distance,avg_first_solution_iteration
+baseline,data/BenchmarK/p2_astar/challenge/challenge_B19500_20260303_192240/astar_base_s50_B19500_20260303_192240_summary.csv,50,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000
+v2,data/BenchmarK/p2_astar/challenge/challenge_B19500_20260303_192240/astar_hint_v2_s50_B19500_20260303_192240_summary.csv,50,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000
+v3,data/BenchmarK/p2_astar/challenge/challenge_B19500_20260303_192240/astar_hint_v3_s50_B19500_20260303_192240_summary.csv,50,1.000000,0.000000,228.165504,228.165504,0.270088,19461.000000

@@ -1,0 +1,9 @@
+build/
+.codex/
+*.o
+*.obj
+*.so
+*.a
+*.out
+*.log
+.DS_Store

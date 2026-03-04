@@ -1,0 +1,4 @@
+label,runs_path,total_runs,success_runs,success_rate,collision_rate,avg_first_iter_all,avg_first_iter_success_only,median_first_iter_success_only,p90_first_iter_success_only,avg_exec_time_success_only,avg_path_length_success_only,avg_min_safety_success_only
+baseline,data/BenchmarK/p2_astar/challenge/challenge_B19500_20260303_192240/astar_base_s50_B19500_20260303_192240_runs.csv,50,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+v2,data/BenchmarK/p2_astar/challenge/challenge_B19500_20260303_192240/astar_hint_v2_s50_B19500_20260303_192240_runs.csv,50,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+v3,data/BenchmarK/p2_astar/challenge/challenge_B19500_20260303_192240/astar_hint_v3_s50_B19500_20260303_192240_runs.csv,50,50,1.0,0.0,19461.0,19461.0,19461.0,19461.0,228.165504,228.165504,0.270088

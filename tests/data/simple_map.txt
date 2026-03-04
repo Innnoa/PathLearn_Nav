@@ -1,0 +1,5 @@
+name test_map
+bounds -10 10 -10 10
+obstacles 2
+circle 0 0 1
+circle 5 5 0.5
