@@ -1,0 +1,4 @@
+label,summary_path,total_runs,success_rate,collision_rate,avg_exec_time_sec,avg_path_length,avg_min_safety_distance,avg_first_solution_iteration
+baseline,data/BenchmarK/p2_astar/overnight/overnight_smoke_222413/final/challenge_B2000_s1/astar_base_s1_B2000_smoke_222413_summary.csv,1,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000
+v2,data/BenchmarK/p2_astar/overnight/overnight_smoke_222413/final/challenge_B2000_s1/astar_hint_v2_s1_B2000_smoke_222413_summary.csv,1,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000
+v3,data/BenchmarK/p2_astar/overnight/overnight_smoke_222413/final/challenge_B2000_s1/astar_hint_v3_s1_B2000_smoke_222413_summary.csv,1,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000
