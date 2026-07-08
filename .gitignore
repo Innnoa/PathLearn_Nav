@@ -1,5 +1,6 @@
 build/
 .codex/
+.codex
 *.o
 *.obj
 *.so
@@ -7,3 +8,4 @@ build/
 *.out
 *.log
 .DS_Store
+.idea/
